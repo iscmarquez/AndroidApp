@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Exemple1</string>
     <string name="underscore_envoye">Envoye</string>
+    <string name="votre_nom">Entre votre nom</string>
+    <string name="bouton_envoyer">Envoyer</string>
 </resources>
